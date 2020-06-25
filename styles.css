@@ -1,0 +1,67 @@
+        .topcontainer {
+            background-color: #ddf3f5;
+            margin-top: 0px;
+            margin-top: 0px;
+            padding: 80px;
+            padding-top: 60px;
+        }
+        
+        body {
+            margin-left: 0;
+            margin-top: 0;
+            text-align: center;
+        }
+        
+        h3 {
+            font-family: 'Marck Script', cursive;
+        }
+        
+        h2 {
+            font-family: 'Marck Script', cursive;
+        }
+        
+        h1 {
+            font-family: 'Satisfy', cursive;
+        }
+        
+        .asd {
+            height: 400px;
+            text-align: center;
+            position: relative;
+            bottom: 40px;
+        }
+        
+        .asdf {
+            position: absolute;
+            left: 380px;
+            display: inline-block;
+            size: 100px;
+        }
+        
+        .asdfg {
+            position: absolute;
+            top: 20px;
+            right: 360px;
+        }
+        
+        .a {
+            height: 200px;
+            width: 200px;
+            text-align: center;
+        }
+        
+        .skills {
+            background-color: #ddf3f5;
+            margin-right: 0px;
+            margin-top: 0px;
+        }
+        
+        .middlecontainer {
+            background-color: #ddf3f5;
+        }
+        
+        .ss {
+            height: 150px;
+            width: 150px;
+            display: inline-block;
+        }
